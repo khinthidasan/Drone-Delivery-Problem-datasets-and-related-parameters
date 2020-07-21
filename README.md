@@ -1,7 +1,7 @@
 # Drone-Delivery-Problem-datasets-and-related-parameters
 
 
-There are THREE datasets which are given by three xls (excel) files
+There are THREE datasets 
 
 
 (1) Drone 1 to 4 with their parameters and 
