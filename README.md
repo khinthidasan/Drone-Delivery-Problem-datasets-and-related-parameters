@@ -18,3 +18,13 @@ D1    |	1000        |	5           |	4.5                   |30
 2	D2	1000	5	4.5	30
 3	D3	1500	3	1.8	20
 4	D4	1500	3	1.8	20
+
+
+Drone	Payload
+(g)	Speed
+(m/s)	Coverage distance (km)	Flight time
+(min)
+1	D1	1000	5	4.5	30
+2	D2	1000	5	4.5	30
+3	D3	1500	3	1.8	20
+4	D4	1500	3	1.8	20
