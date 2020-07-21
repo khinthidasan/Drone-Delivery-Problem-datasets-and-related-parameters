@@ -10,7 +10,7 @@ There are THREE datasets
 
 Drone 1 to 4
 ____________________________________________________________________________
-Drone | Payload(g)  | Speed(m/s)  | Coverage distance(km) | Flight time(min)
+|_Drone|_Payload(g)  | Speed(m/s)  | Coverage distance(km) | Flight time(min)
 ____________________________________________________________________________
 
 
