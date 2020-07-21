@@ -4,8 +4,9 @@
 There are THREE datasets 
 
 
-(1) Drone 1 to 4 with their parameters and 
-(2) Drone 1 to 10 with their parameters
+(1) Drone 1 to 4 (D4) with their parameters and 
+
+(2) Drone 1 to 10 (D10) with their parameters
 
     *Units: g = gram, km = kilometre, min = minutes, m/s = meter per second*
 
@@ -21,7 +22,7 @@ There are THREE datasets
 
 
 
-(3) Location 1 to 100 with their parameters
+(3) Location 1 to 100 (L1toL100) with their parameters
 
       *Units: km = kilometre*
       
