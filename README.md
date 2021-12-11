@@ -49,4 +49,13 @@ There are THREE datasets
  Secondly, generate the end point (latitude,longitude) from the given random distance,bearing point and warehouse location point (latitude,longitude)
  
  
+ (4) Chromosomes-in-all-generation.csv
+ 
+ The results outcome after we solved 100 locations- 10 Drones rounting assignment (drone-based delivery).
+ Algoritm run with 20 intializations, 6 elitisms for 10 generations.
+ We apply Genetic algorithm with our heuristic fitness function (concurrent-heuristic approach) with our proposed operator (gene-elitism crossover and gene-replacement mutation)
+ The optimal assignment result at 10th generation with concurrent-time value 1478.89.
       
+ (5) routing-assignment.csv
+The detail routing assignment for the optimal result 1478.89.
+The assignment shows, which drone should fly to which location as a priority together with its knapsack assigned items.
