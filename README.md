@@ -53,10 +53,16 @@ There are THREE datasets
  (4) Result-chromosomes-in-all-generation.csv
  
       The results outcome after we solved 100 locations- 10 Drones rounting assignment (drone-based delivery).
+      
       Algorithm runs with 20 intializations, 6 elitisms for 10 generations.
-       We apply Genetic algorithm with our heuristic fitness function (concurrent-heuristic approach) with our proposed operator (gene-elitism crossover and gene-replacement mutation)
+      
+       We apply Genetic algorithm with our heuristic fitness function (concurrent-heuristic approach) with our proposed operator 
+       (gene-elitism crossover and gene-replacement mutation)
+      
       The optimal assignment result at 10th generation with concurrent-time value 1478.89.
       
  (5) Result-routing-assignment.csv
-The detail routing assignment for the optimal result 1478.89.
-The assignment shows the result by describing a specific drone should fly to a location as a priority together with its knapsack assigned items.
+
+      The detail routing assignment for the optimal result 1478.89.
+      
+      The assignment shows the result by describing a specific drone should fly to a location as a priority together with its knapsack assigned items.
